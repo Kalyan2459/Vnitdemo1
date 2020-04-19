@@ -1,0 +1,14 @@
+
+@media (min-width: 500px) {
+    #sd1,#name {
+        width: 90%;
+    }
+    }
+@media (max-width: 499px) {
+    #sd1,#name {
+        width: 100%;
+    }
+}
+body{
+    background-color: rgb(184, 233, 241);
+}
